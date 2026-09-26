@@ -1,7 +1,7 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[Zannn].
 
 <p align="center">
-  <img src="flowers.png.jpg" width="700" alt="Cute Bunny Portrait"/>
+  <img src="flowers.png.jpg" width="900" alt="Cute Bunny Portrait"/>
 </p>
 
   ۫  ⊹     angel      命
