@@ -1,6 +1,6 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGXZZ].
 <p align="center">
-<img src="vamp.banner.jpg" width="300" alt="Gothic Potrait"/> </p> 
+<img src="divider" width="300" alt="Gothic Potrait"/> </p> 
 
 
 <p align="center">
