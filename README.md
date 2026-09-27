@@ -1,7 +1,10 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGXZZ].
+<p align="center">
+<img src="vamp.banner" width="300" alt="Gothic Potrait"/> </p> 
+
 
 <p align="center">
-  <img src="piano gif.png.png" width="900" alt="Cute Bunny Portrait"/>
+  <img src="piano gif.png.png" width="900" alt="Gothic Potrait"/>
 </p>
 
   ۫  ⊹     angel      命
