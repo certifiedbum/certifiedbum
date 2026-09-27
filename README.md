@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="bannerr.jpg" width="900" alt="Gothic Potrait"/>
+  <img src="banner gif" width="900" alt="Gothic Potrait"/>
 </p>
 
   ۫  ⊹     angel      命
