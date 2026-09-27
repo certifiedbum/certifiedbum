@@ -1,6 +1,5 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGXZZ].
-<p align="center">
-<img src="divider.jpg" width="300" alt="Gothic Potrait"/> </p> 
+
 
 
 <p align="center">
