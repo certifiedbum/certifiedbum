@@ -1,7 +1,7 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGXZZ].
 
 <p align="center">
-  <img src="emu otori rentry.png" width="900" alt="Cute Bunny Portrait"/>
+  <img src="emu otori rentry.png.gif" width="900" alt="Cute Bunny Portrait"/>
 </p>
 
   ۫  ⊹     angel      命
