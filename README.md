@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="bannerr" width="900" alt="Gothic Potrait"/>
+  <img src="bannerr.jpg" width="900" alt="Gothic Potrait"/>
 </p>
 
   ۫  ⊹     angel      命
