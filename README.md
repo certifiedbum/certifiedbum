@@ -9,12 +9,14 @@
   ۫  ⊹     angel      命
 ::        ꒰    zan. ⠀੭       ֹ  
 
-Friendly . !
-
-### . fang bites .  ⎯⎯ ⠀ ៸ 𝒞 ׄ  ׅ   浮世  ◟ ⋆🗞️ ۪  ◝ 
-Follow pleasee, I'd really appreciate it.
-### . Connect with me.
-[ Discord: .Fangnoir | [ Roblox](https://www.roblox.com/users/8276187446/profile))
-Some social links are old ones in my github.
-I do dark shading styles .
-Thank you followers . 
+<svg fill="none" width="800" height="100" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        @import url('https://googleapis.com');
+        .pixel-text { font-family: 'VT323', monospace; color: #FFB7B2; font-size: 40px; }
+      </style>
+      <h1 class="pixel-text">Welcome to my pasture! 🌸</h1>
+    </div>
+  </foreignObject>
+</svg>
