@@ -25,24 +25,15 @@
     
    
         **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 READ.ME 🦇**
-      </p>
-      <hr size="1" color="#5a0e0c">
+  
       
-      <p><font color="#8c8c8c">⛓️ <b>𝔑𝔦𝔠𝔨𝔫𝔞𝔪𝔢: <font color="#c42525"><i[Zan  </i></font></p>
-      <p><font color="#8c8c8c">🩸 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b></font> <font color="#c42525"><i> he/ him </i></font></p>
-      <p><font color="#8c8c8c">🕸️ <b>𝔄𝔟𝔬𝔲𝔱 𝔐𝔢:</b></font> <font color="#a3a3a3"><i>Casual Pony Town skin designer.
-      <p><font color="#8c8c8c">🥀 <b>𝔘𝔰𝔲𝔞𝔩 ℌ𝔞𝔲𝔫𝔱𝔰:</b></font> <font color="#a3a3a3"><i>Chilling out in quiet corners.
+      ⛓️𝔑𝔦𝔠𝔨𝔫𝔞𝔪𝔢:Zan 
+   𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰: he/ him 
+     𝔄𝔟𝔬𝔲𝔱 𝔐𝔢:Casual Pony Town skin designer.
+    <b>𝔘𝔰𝔲𝔞𝔩 ℌ𝔞𝔲𝔫𝔱𝔰;  Chilling out in quiet corners.
       
-      <hr size="1" color="#5a0e0c">
-      <p align="center">
-        <i><font color="#7a1f1d">🛑 <b>𝔇𝔑ℑ:</b> Skin theft, clone accounts, or toxic interactions. Keep the vibes chill.</font></i>
-      </p>
-    </td>
-
-    <!-- RIGHT SIDE: Dark Aesthetic Sad/Moody Anime PFP GIF -->
-    <td valign="middle" width="45%" align="center">
-      <img src="https://pinimg.com" width="220" style="border-radius: 6px; border: 1px solid #5a0e0c;">
-    </td>
+        🛑DNI:</b> Skin theft, clone accounts, or toxic interactions. Keep the vibes chill.
+    
 
   </tr>
 </table>
