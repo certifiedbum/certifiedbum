@@ -27,12 +27,12 @@
         **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 READ.ME 🦇**
   
       
-      ⛓️ɴɪᴄᴋɴᴀᴍᴇ: Zan .  Zander
+      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  𝚣𝚊𝚗 . 𝚣𝚊𝚗𝚍𝚎𝚛 
    ᴘʀᴏɴᴏᴜɴs:  he/ him 
-     ᴀʙᴏᴜᴛ ᴍᴇ: Casual Pony Town skin designer.
+     ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ
     <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs𝔰 ;  Chilling out in quiet corners.
       
-        🛑DNI: Weird people, OPS ,   toxic interactions. Keep the vibes chill.
+        🛑DNI: ᴡᴇɪʀᴅ ᴘᴇᴏᴘʟᴇ , ᴏᴘs , ᴛᴏxɪᴄ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs , ᴋᴇᴇᴘ ᴛʜᴇ ᴠɪʙᴇs ᴄʜɪʟʟ.
     
 
   </tr>
