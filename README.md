@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <!-- Bottom Accent Divider Line -->
+  <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/
   <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </font>
 </p>
 
