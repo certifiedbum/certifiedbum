@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Arlecchino.rentry.jpg" width="900" alt="Gothic Potrait"/>
+  <img src="Arlecchino.rentry.jpg" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
