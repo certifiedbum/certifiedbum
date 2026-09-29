@@ -5,13 +5,9 @@
 <p align="center">
   <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/>
 </p>
-                  ⬫       ׄ         ꪆ୧       ׅ         ⬫
-             ੭੭       ݂       (READ.ME )      ׄ 🧸 ꒱
-                   ⁺        ꔫ   ׅ      🍮     ₊﹒    ⌣
-             ✧ㅤִ      ﹙he / 𝗵im ﹚ㅤ.ㅤ  ౨౿
-                 ꒰         ׂ          ♡.           𓈒       𝟢𝟣
+    
 
-@not.aerin
+
   ۫  ⊹     angel      命
 <p align="center">
   <!-- Dark Aesthetic Top Banner: Starry Sky Grid -->
