@@ -23,17 +23,15 @@
 <table align="center" style="border: 2px solid #5a0e0c; border-radius: 8px; background-color: #0d0d0d; padding: 10px;" cellpadding="12" cellspacing="0">
   <tr>
     
-    <!-- LEFT SIDE: Profile Information with Fancy Crimson Styling -->
-    <td valign="top" width="55%">
-      <p align="center">
-        **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔳𝔬𝔦𝔡 🦇**
+   
+        **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 READ.ME 🦇**
       </p>
       <hr size="1" color="#5a0e0c">
       
-      <p><font color="#8c8c8c">⛓️ <b>𝔑𝔦𝔠𝔨𝔫𝔞𝔪𝔢:</b></font> <font color="#c42525"><i>[Your Name / Main OC]</i></font></p>
-      <p><font color="#8c8c8c">🩸 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b></font> <font color="#c42525"><i>they / them / she / he</i></font></p>
-      <p><font color="#8c8c8c">🕸️ <b>𝔄𝔟𝔬𝔲𝔱 𝔐𝔢:</b></font> <font color="#a3a3a3"><i>Casual Pony Town skin designer leaning heavily into dark fantasy, gothic cosplays, and shadow aesthetics.</i></font></p>
-      <p><font color="#8c8c8c">🥀 <b>𝔘𝔰𝔲𝔞𝔩 ℌ𝔞𝔲𝔫𝔱𝔰:</b></font> <font color="#a3a3a3"><i>Chilling out in quiet corners, tabbed out at the docks, or hiding in the forest shadows.</i></font></p>
+      <p><font color="#8c8c8c">⛓️ <b>𝔑𝔦𝔠𝔨𝔫𝔞𝔪𝔢: <font color="#c42525"><i[Zan  </i></font></p>
+      <p><font color="#8c8c8c">🩸 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b></font> <font color="#c42525"><i> he/ him </i></font></p>
+      <p><font color="#8c8c8c">🕸️ <b>𝔄𝔟𝔬𝔲𝔱 𝔐𝔢:</b></font> <font color="#a3a3a3"><i>Casual Pony Town skin designer.
+      <p><font color="#8c8c8c">🥀 <b>𝔘𝔰𝔲𝔞𝔩 ℌ𝔞𝔲𝔫𝔱𝔰:</b></font> <font color="#a3a3a3"><i>Chilling out in quiet corners.
       
       <hr size="1" color="#5a0e0c">
       <p align="center">
