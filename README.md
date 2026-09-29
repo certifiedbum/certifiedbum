@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Minimal Dark Gothic Divider Line -->
-  <font color="#7a1f1d">🪦 ─── ･ ｡ﾟ☆: *. 🩸 .* :☆ﾟ. ─── 🪦</font>
+  <font color="#7a1f1d">ིྀ 𓎟ᛝ𓎟𓎟　†　𓎟𓎟ᛝ𓎟 ྀི </font>
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 
 <p align="center">
   <!-- Bottom Accent Divider Line -->
-  <font color="#5a0e0c">🕸️ ─── ✦ ─── 🕸️</font>
+  <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </font>
 </p>
 
 <p align="center">
