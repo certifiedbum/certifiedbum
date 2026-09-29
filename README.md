@@ -48,7 +48,7 @@ New github user ! ^^
 </p>
 
 <p align="center">
-  <img src="Arlecchino__1_-removebg-preview" width="500" alt="Gothic Potrait"/
+  <img src="Arlecchino__1_-removebg-preview.png" width="500" alt="Gothic Potrait"/
   <font color="#5a0e0c"
 </p>
 
