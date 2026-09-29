@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Arlecchino.rentryremove.png" width="600" alt="Gothic Potrait"/>
+  <img src="Arlecchino.rentryremove.pn" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
@@ -28,7 +28,7 @@
   <tr>
     
    
-        **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 READ.ME 🦇**
+        Welcome 𝔱𝔬 𝔪𝔶 READ.ME .
   
       
       ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  𝚣𝚊𝚗 . 𝚣𝚊𝚗𝚍𝚎𝚛 
