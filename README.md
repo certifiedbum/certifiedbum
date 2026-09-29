@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Arlecchino.rentry" width="900" alt="Gothic Potrait"/>
+  <img src="Arlecchino.rentry.jpg" width="900" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <img src="Arlecchino.png" width="500" alt="Gothic Potrait"/
+  <img src="Arlecchino.png.jpg" width="500" alt="Gothic Potrait"/
   <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </font>
 </p>
 
