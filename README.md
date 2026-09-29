@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="Banner.redremover" width="500" alt="Gothic Potrait"/
-  <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </font>
+  <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
 
 <p align="center">
