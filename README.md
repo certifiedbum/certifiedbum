@@ -27,12 +27,12 @@
         **🦇 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 READ.ME 🦇**
   
       
-      ⛓️𝔑𝔦𝔠𝔨𝔫𝔞𝔪𝔢:Zan 
-   𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:  he/ him 
-     𝔄𝔟𝔬𝔲𝔱 𝔐𝔢: Casual Pony Town skin designer.
-    <b>𝔘𝔰𝔲𝔞𝔩 ℌ𝔞𝔲𝔫𝔱𝔰;  Chilling out in quiet corners.
+      ⛓️ɴɪᴄᴋɴᴀᴍᴇ: Zan .  Zander
+   ᴘʀᴏɴᴏᴜɴs:  he/ him 
+     ᴀʙᴏᴜᴛ ᴍᴇ: Casual Pony Town skin designer.
+    <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs𝔰 ;  Chilling out in quiet corners.
       
-        🛑DNI:  Skin theft, clone accounts, or toxic interactions. Keep the vibes chill.
+        🛑DNI: Weird people, OPS ,   toxic interactions. Keep the vibes chill.
     
 
   </tr>
