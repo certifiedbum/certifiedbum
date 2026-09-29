@@ -3,7 +3,7 @@
 New github user ! ^^
 
 <p align="center">
-  <img src="Arlecchino.rentryremove.png" width="600" alt="Gothic Potrait"/>
+  <img src="Arlecchino.rentryremove.pn" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
