@@ -30,7 +30,7 @@ New github user ! ^^
         Welcome 𝔱𝔬 𝔪𝔶 READ.ME .
   
       
-      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  𝚣𝚊𝚗 . 𝚣𝚊𝚗𝚍𝚎𝚛 
+      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  Zan, Fang ,  Noir , or Arlecchin
    ᴘʀᴏɴᴏᴜɴs:  he/ him ⊹ ࣪˖┆
      ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
     <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs ;  Chilling out .
