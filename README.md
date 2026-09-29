@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <img src="Arlecchino.png.jpg" width="500" alt="Gothic Potrait"/
+  <img src="Banner.redremover" width="500" alt="Gothic Potrait"/
   <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </font>
 </p>
 
