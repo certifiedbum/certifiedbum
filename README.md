@@ -6,7 +6,9 @@
   <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/>
 </p>
     
+ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
 
+ㅤㅤ ۪      𝅄     ꒰  태형  ꒱    ۪   ݁  𝟷𝟷 : 𝟷𝟷   ݁   ۪    ୧
 
   ۫  ⊹     angel      命
 <p align="center">
