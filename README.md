@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="emu otori rentry.png" width="900" alt="Gothic Potrait"/>
+  <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/>
 </p>
 
   ۫  ⊹     angel      命
