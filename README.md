@@ -50,8 +50,8 @@
 </p>
 
 <p align="center">
-  <!-- Custom Colored Dark Shield Status Badges -->
-  <img src="https://shields.io"> <img src="https://shields.io"> <img src="https://shields.io">
+  <img src="board.coverremover.png" width="500" alt="Gothic Potrait"/
+  <font color="#5a0e0c"
 </p>
 
 <p align="center">
