@@ -5,11 +5,13 @@
 <p align="center">
   <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/>
 </p>
-        ︵︵︵ ๑ ♡ ๑ ︵︵︵
-݁ Ი𐑼⋆ name ♡’s f/o ˖ ݁♬⋆.
-   ּ֯ . ❥ ּ֯ ┆꒰ status .ᐟ ꒱
-    𑣲𝄞 prn :: prn ⊹ ࣪ ˖ ໒꒱
- ‿ ‿ ‿ ‿₊୨ᰔ୧₊‿ ‿ ‿ ‿ ‿
+                  ⬫       ׄ         ꪆ୧       ׅ         ⬫
+             ੭੭       ݂       (READ.ME )      ׄ 🧸 ꒱
+                   ⁺        ꔫ   ׅ      🍮     ₊﹒    ⌣
+             ✧ㅤִ      ﹙he / 𝗵im ﹚ㅤ.ㅤ  ౨౿
+                 ꒰         ׂ          ♡.           𓈒       𝟢𝟣
+
+@not.aerin
   ۫  ⊹     angel      命
 <p align="center">
   <!-- Dark Aesthetic Top Banner: Starry Sky Grid -->
