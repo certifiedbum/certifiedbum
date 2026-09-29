@@ -12,7 +12,7 @@ New github user ! ^^
 
   ۫  ⊹     angel      命
 <p align="center">
-  <img src="Arlecchinoremove.png" width="500" alt="Gothic Potrait"/>
+  <img src="Banner.redremover.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
