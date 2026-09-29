@@ -5,13 +5,11 @@
 <p align="center">
   <img src="emu otori rentry.png.gif" width="900" alt="Gothic Potrait"/>
 </p>
-      ╭────── 人⁠ ⁠•͈ ──────╮
-                 𝐇𝐄𝐘𝐘! 𝐒𝐓𝐎𝐏 𝐑𝐈𝐆𝐇𝐓 𝐓𝐇𝐄𝐑𝐄!
-                       ᵈⁱᵈ ᴵ ᵍᵉᵗ ʸᵒᵘʳ ᵃᵗᵗᵉⁿᵗⁱᵒⁿ ʸᵉᵗ?
-            ╰────── 人⁠ ⁠•͈ ──────╯
-        𑁥 _ 灬 _ 𑁥             𝚃𝚑𝚒𝚜 𝚒𝚜 𝗚𝗹𝗼𝗿𝗽𝗮𝗴𝘂𝘀!
-       𐔌˶ •⁠  ᴥ  ⁠• ⋆𐦯  ←   𝙷𝚎 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚐𝚞𝚒𝚍𝚒𝚗𝚐 𝚢𝚘𝚞
-      |            𝗍һr᥆ᥙgһ᥆ᥙ𝗍 ᥡ᥆ᥙr ȷ᥆ᥙrᥒᥱᥡ
+        ︵︵︵ ๑ ♡ ๑ ︵︵︵
+݁ Ი𐑼⋆ name ♡’s f/o ˖ ݁♬⋆.
+   ּ֯ . ❥ ּ֯ ┆꒰ status .ᐟ ꒱
+    𑣲𝄞 prn :: prn ⊹ ࣪ ˖ ໒꒱
+ ‿ ‿ ‿ ‿₊୨ᰔ୧₊‿ ‿ ‿ ‿ ‿
   ۫  ⊹     angel      命
 <p align="center">
   <!-- Dark Aesthetic Top Banner: Starry Sky Grid -->
