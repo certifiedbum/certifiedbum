@@ -44,7 +44,7 @@ New github user ! ^^
 
 <p align="center">
   <img src="_______̣̣______Arlecchino_Graphic_ver_𝐈𝐈-removebg-preview.png" width="500" alt="Gothic Potrait"/
-  <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </love>
+  <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
 
 <p align="center">
