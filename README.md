@@ -12,8 +12,7 @@ New github user ! ^^
 
   ۫  ⊹     angel      命
 <p align="center">
-  <!-- Dark Aesthetic Top Banner: Starry Sky Grid -->
-  <img src="https://pinimg.com" width="100%">
+  <img src="Arlecchinoremove.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
