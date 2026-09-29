@@ -6,7 +6,7 @@ New github user ! ^^
   <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
     
-ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
+ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
 
 ㅤㅤ ۪      𝅄     ꒰  태형  ꒱    ۪   ݁  𝟷𝟷 : 𝟷𝟷   ݁   ۪    ୧
 
