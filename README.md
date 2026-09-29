@@ -1,6 +1,6 @@
-# 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGXZZ].
+# 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[READ.ME].
 
-
+New github user ! ^^
 
 <p align="center">
   <img src="Arlecchino.rentryremove.png" width="600" alt="Gothic Potrait"/>
@@ -36,8 +36,8 @@
      ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
     <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs ;  Chilling out .
       
-        🛑DNI: ᴡᴇɪʀᴅ ᴘᴇᴏᴘʟᴇ , ᴏᴘs , ᴛᴏxɪᴄ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs , ᴋᴇᴇᴘ ᴛʜᴇ ᴠɪʙᴇs ᴄʜɪʟʟ.
-    
+        🛑DNI: ᴡᴇɪʀᴅ ᴘᴇᴏᴘʟᴇ , ᴏᴘs , ᴛᴏxɪᴄ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs , ᴋᴇᴇᴘ ᴛʜᴇ ᴠɪʙᴇs ᴄʜɪʟʟ.  ⊹ ࣪˖┆
+    A follow would be appreciated.
 
   </tr>
 </table>
