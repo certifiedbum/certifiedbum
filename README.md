@@ -7,8 +7,6 @@
 </p>
 
   ۫  ⊹     angel      命
-
-My READ.ME is still in WIP . 
 <p align="center">
   <!-- Dark Aesthetic Top Banner: Starry Sky Grid -->
   <img src="https://pinimg.com" width="100%">
