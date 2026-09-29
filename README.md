@@ -3,7 +3,7 @@
 New github user ! ^^
 
 <p align="center">
-  <img src="Arlecchino.rentryremove.pn" width="600" alt="Gothic Potrait"/>
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄    🪡      ۪   ݁   𓈒 
@@ -43,12 +43,12 @@ New github user ! ^^
 <br>
 
 <p align="center">
-  <img src="Banner.redremover.png" width="500" alt="Gothic Potrait"/
+  <img src="_______̣̣______Arlecchino_Graphic_ver_𝐈𝐈-removebg-preview.png" width="500" alt="Gothic Potrait"/
   <font color="#5a0e0c"> ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
 
 <p align="center">
-  <img src="board.coverremover.png" width="500" alt="Gothic Potrait"/
+  <img src="Arlecchino__1_-removebg-preview" width="500" alt="Gothic Potrait"/
   <font color="#5a0e0c"
 </p>
 
