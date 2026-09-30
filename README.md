@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="download_-_2026-09-29T205232.664-removebg-preview.png"/>
+  <img src="Dark_mafumafu-removebg-preview.png"/>
 </p>
   <font color="#5a0e0c"
 </p>
