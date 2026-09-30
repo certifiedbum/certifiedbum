@@ -8,7 +8,7 @@ Scroll down for info !
 
 
 <p align="center">
-  <img src="Ivantill___1_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
+  <img src="rentry_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
 </p>
 
 
