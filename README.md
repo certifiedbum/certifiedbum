@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Screenshot_2026-09-29_202329-removebg-preview.png" width="500" alt="Gothic Potrait"/>
+  <img src="Screenshot_2026-09-29_202329-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
@@ -15,7 +15,7 @@
 
   ۫  ⊹     angel      命
 <p align="center">
-  <img src="Chibi_ciel-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="Chibi_ciel-removebg-preview.png" width="400" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
