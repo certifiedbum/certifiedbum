@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Screenshot_2026-09-29_202329-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="Screenshot 2026-09-29 210622.png" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
