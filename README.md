@@ -45,7 +45,7 @@ creds to kimi .
 </p>
 
 <p align="center">
-  <img src="____1_-removebg-preview.png" width="300" alt="Gothic Potrait"/>
+  <img src="alien_stage_-_till-removebg-preview.png" width="400" alt="Gothic Potrait"/>
 </p>
   <font color="#5a0e0c"
 </p>
