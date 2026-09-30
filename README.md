@@ -1,4 +1,5 @@
-# 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGNOIR.].
+# 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[ALIENSTAGE.].
+Scroll down for info !
 <p align="center">
   <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
