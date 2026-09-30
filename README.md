@@ -15,7 +15,7 @@
 
   ۫  ⊹     angel      命
 <p align="center">
-  <img src="download_-_2026-09-29T202612.825-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="Chibi_ciel-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
