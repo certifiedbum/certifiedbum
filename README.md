@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="till_graphic_f2u-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="till_graphic_f2u-removebg-preview.png" width="700" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
@@ -45,7 +45,7 @@ creds to kimi .
 </p>
 
 <p align="center">
-  <img src="alien_stage_-_till-removebg-preview.png" width="400" alt="Gothic Potrait"/>
+  <img src="alien_stage_-_till-removebg-preview.png" width="200" alt="Gothic Potrait"/>
 </p>
   <font color="#5a0e0c"
 </p>
