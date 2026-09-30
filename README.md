@@ -3,12 +3,12 @@ Scroll down for info !
 
 
 <p align="center">
-  <img src="____1_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="____1_-removebg-preview.pn" width="800" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="rentry_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
+  <img src="rentry_-removebg-preview.pn" width="700" alt="Gothic Potrait"/>
 </p>
 
 
