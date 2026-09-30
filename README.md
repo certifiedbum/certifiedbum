@@ -15,7 +15,7 @@
 
   ۫  ⊹     angel      命
 <p align="center">
-  <img src="Banner.redremover.png" width="500" alt="Gothic Potrait"/>
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
