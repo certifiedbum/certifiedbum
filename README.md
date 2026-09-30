@@ -1,7 +1,7 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGNOIR.].
 Scroll down for info !
 <p align="center">
-  <img src="Untitled_design__16_-removebg-preview.pn" width="800" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-30T184540.811-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
