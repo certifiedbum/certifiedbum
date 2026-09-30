@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
@@ -43,7 +43,7 @@
 <br>
 
 <p align="center">
-  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
