@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Ivantill___1_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
+  <img src="Ivantill___1_-removebg-preview.pn" width="700" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
