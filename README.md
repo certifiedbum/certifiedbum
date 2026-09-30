@@ -1,6 +1,6 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[R3NTRY.].
 <p align="center">
-  <img src="____1_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="____1_-removebg-preview.pn" width="800" alt="Gothic Potrait"/>
 </p>
 
 
