@@ -39,8 +39,7 @@ creds to kimi .
 
 <br>
 
-<p align="center">
-  <img src="download_-_2026-09-29T202532.668-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+
 </p>
   <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
