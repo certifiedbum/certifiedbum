@@ -1,5 +1,9 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGNOIR.].
 <p align="center">
+  <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+</p>
+
+<p align="center">
   <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
 
