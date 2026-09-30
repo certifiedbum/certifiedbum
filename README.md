@@ -8,7 +8,7 @@ Scroll down for info !
 
 
 <p align="center">
-  <img src="Untitled_design__16_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
+  <img src="Untitled_design__16_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 
