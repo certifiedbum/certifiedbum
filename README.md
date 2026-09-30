@@ -53,7 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="Arlecchino__1_-removebg-preview.png" width="500" alt="Gothic Potrait"/
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+</p>
   <font color="#5a0e0c"
 </p>
 
