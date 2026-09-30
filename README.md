@@ -5,7 +5,7 @@ Scroll down for info !
 </p>
 
 <p align="center">
-  <img src="Untitled_design__10_-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="WEMMBU_FANART_____pirate_civ-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 
