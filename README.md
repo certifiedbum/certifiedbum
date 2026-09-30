@@ -3,7 +3,7 @@ Scroll down for info !
 
 
 <p align="center">
-  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="____1_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
