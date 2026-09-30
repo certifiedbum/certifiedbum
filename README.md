@@ -1,9 +1,11 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[ALIENSTAGE.].
 Scroll down for info !
-
+<p align="center">
+  <img src="Untitled_design__16_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+</p>
 
 <p align="center">
-  <img src="Untitled_design__10_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="Untitled_design__10_-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 
