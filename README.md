@@ -44,7 +44,7 @@ Scroll down for info !
 <br>
 
 <p align="center">
-  <img src="Untitled_design__14_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="Untitled_design__14_-removebg-preview.pn" width="800" alt="Gothic Potrait"/>
 </p>
 
 
@@ -53,7 +53,7 @@ Scroll down for info !
 </p>
 
 <p align="center">
-  <img src="download_-_2026-09-29T221229.287-removebg-preview.png" width="200" alt="Gothic Potrait"/>
+  <img src="Untitled_design__14_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
 </p>
   <font color="#5a0e0c"
 </p>
@@ -63,5 +63,5 @@ Scroll down for info !
 </p>
 
 <p align="center">
-  <img src="Untitled_design__12_-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="Untitled_design__12_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
