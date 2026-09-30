@@ -27,7 +27,7 @@
 
 <!-- Main Profile Layout Grid with Dark Styling Borders -->
 <p align="center">
-  <img src="Sebastian_Ciel-removebg-preview.png" width="300" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T205232.664-removebg-preview.png" width="300" alt="Gothic Potrait"/>
 </p>
     
    
