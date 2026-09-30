@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <!-- Minimal Dark Gothic Divider Line -->
-  <font color="#7a1f1d">ིྀ 𓎟ᛝ𓎟𓎟　†　𓎟𓎟ᛝ𓎟 ྀི </font>
+  <img src=" ____1_-removebg-preview.png" width="200" alt="Gothic Potrait"/>
 </p>
 
 <br>
@@ -30,7 +29,7 @@
   <img src="download_-_2026-09-29T205232.664-removebg-preview.png" width="300" alt="Gothic Potrait"/>
 </p>
     
-   
+   ____1_-removebg-preview.png
         Welcome 𝔱𝔬 𝔪𝔶 READ.ME .
   
       
