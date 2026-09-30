@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="Ivantill___1_-removebg-preview.pn" width="700" alt="Gothic Potrait"/>
+  <img src="Ivantill___1_-removebg-preview.png" width="700" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
@@ -16,7 +16,7 @@
   ۫  ⊹     angel      命
 
 <p align="center">
-  <img src= "download_-_2026-09-29T222007.921-removebg-preview.png" width="900" alt="Gothic Potrait"/>
+  <img src= "download_-_2026-09-29T222007.921-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 
 
 <br>
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="alien_stage_-_till-removebg-preview.png" width="200" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T221229.287-removebg-preview.png" width="200" alt="Gothic Potrait"/>
 </p>
   <font color="#5a0e0c"
 </p>
