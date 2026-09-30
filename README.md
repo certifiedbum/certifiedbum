@@ -1,6 +1,6 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[ARLECCHIN.].
 <p align="center">
-  <img src="____1_-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T202532.668-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 
