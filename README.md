@@ -1,6 +1,9 @@
 # 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[ARLECCHIN.].
+<p align="center">
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+</p>
 
-New github user ! ^^
+
 
 <p align="center">
   <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
