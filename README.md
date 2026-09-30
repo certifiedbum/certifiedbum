@@ -27,7 +27,7 @@
 
 <!-- Main Profile Layout Grid with Dark Styling Borders -->
 <p align="center">
-  <img src="divider-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="Chibi_ciel-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
     
    
