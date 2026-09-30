@@ -4,6 +4,10 @@
 </p>
 
 
+<p align="center">
+  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+</p>
+
 
 <p align="center">
   <img src="Ivantill___1_-removebg-preview.pn" width="700" alt="Gothic Potrait"/>
@@ -38,6 +42,10 @@
 
 <br>
 
+<p align="center">
+  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+</p>
+
 
 </p>
   <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
@@ -51,4 +59,8 @@
 
 <p align="center">
   <font size="2" color="#5c5c5c"><i>"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."</i></font>
+</p>
+
+<p align="center">
+  <img src="download_-_2026-09-29T221224.026-removebg-preview.png" width="800" alt="Gothic Potrait"/>
 </p>
