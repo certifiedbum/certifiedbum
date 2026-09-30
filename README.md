@@ -23,7 +23,7 @@ Scroll down for info !
   ۫  ⊹     angel      命
 
 <p align="center">
-  <img src= "Screenshot_2026-09-30_183703-removebg-preview (2).png" width="500" alt="Gothic Potrait"/>
+  <img src= "download_-_2026-09-30T184540.811-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 
 
 <br>
