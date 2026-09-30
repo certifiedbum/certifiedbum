@@ -30,7 +30,7 @@
    
   
       
-      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  Zan, Fang ,  Noir , or Arlecchin
+      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  Zan or Fang is fine by me.
    ᴘʀᴏɴᴏᴜɴs:  he/ him ⊹ ࣪˖┆
      ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
     <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs ;  Chilling out .
