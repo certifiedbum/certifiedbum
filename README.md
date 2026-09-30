@@ -44,7 +44,7 @@ Scroll down for info !
 <br>
 
 <p align="center">
-  <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T222515.615-removebg-preview.pn" width="800" alt="Gothic Potrait"/>
 </p>
 
 
