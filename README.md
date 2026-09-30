@@ -26,8 +26,9 @@
 <br>
 
 <!-- Main Profile Layout Grid with Dark Styling Borders -->
-<table align="center" style="border: 2px solid #5a0e0c; border-radius: 8px; background-color: #0d0d0d; padding: 10px;" cellpadding="12" cellspacing="0">
-  <tr>
+<p align="center">
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+</p>
     
    
         Welcome 𝔱𝔬 𝔪𝔶 READ.ME .
@@ -46,7 +47,8 @@
 <br>
 
 <p align="center">
-  <img src="_______̣̣______Arlecchino_Graphic_ver_𝐈𝐈-removebg-preview.png" width="500" alt="Gothic Potrait"/
+  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+</p>
   <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
 
