@@ -27,7 +27,7 @@
 
 <!-- Main Profile Layout Grid with Dark Styling Borders -->
 <p align="center">
-  <img src="Sebastian_Ciel-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="Sebastian_Ciel-removebg-preview.png" width="300" alt="Gothic Potrait"/>
 </p>
     
    
@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="_______̣̣______Arlecchino_Graphics_ver_𝐈-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-29T202532.668-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
   <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
