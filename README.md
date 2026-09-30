@@ -45,7 +45,7 @@ creds to kimi .
 </p>
 
 <p align="center">
-  <img src="alien_stage_-_till-removebg-preview.png"/>
+  <img src="alien_stage_-_till-removebg-preview.png width=300"/>
 </p>
   <font color="#5a0e0c"
 </p>
