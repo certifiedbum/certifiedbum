@@ -14,21 +14,15 @@
 ㅤㅤ ۪      𝅄     ꒰  태형  ꒱    ۪   ݁  𝟷𝟷 : 𝟷𝟷   ݁   ۪    ୧
 
   ۫  ⊹     angel      命
-<p align="center">
-  <img src="Chibi_ciel-removebg-preview.png" width="400" alt="Gothic Potrait"/>
-</p>
+
 
 <p align="center">
-  <img src= "download_-_2026-09-29T202612.825-removebg-preview.png" width="400" alt="Gothic Potrait"/>
+  <img src= "download_-_2026-09-29T202612.825-removebg-preview.png" width="900" alt="Gothic Potrait"/>
 
 
 <br>
 
-<!-- Main Profile Layout Grid with Dark Styling Borders -->
-<p align="center">
-  <img src="download_-_2026-09-29T205232.664-removebg-preview.png" width="300" alt="Gothic Potrait"/>
-</p>
-    
+
 
    
   
