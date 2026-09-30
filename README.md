@@ -63,5 +63,5 @@ Scroll down for info !
 </p>
 
 <p align="center">
-  <img src="Untitled_design__4_-removebg-preview (1).png" width="500" alt="Gothic Potrait"/>
+  <img src="Untitled_design__12_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
