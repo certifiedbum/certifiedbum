@@ -15,7 +15,6 @@
 
   ۫  ⊹     angel      命
 
-creds to kimi . 
 <p align="center">
   <img src= "download_-_2026-09-29T202612.825-removebg-preview.png" width="900" alt="Gothic Potrait"/>
 
