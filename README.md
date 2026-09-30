@@ -12,10 +12,7 @@ Scroll down for info !
 </p>
 
 
-    
-<p align="center">
-  <img src="download_-_2026-09-29T222515.615-removebg-preview.png" width="800" alt="Gothic Potrait"/>
-</p>
+
 
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
 
