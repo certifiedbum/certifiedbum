@@ -29,8 +29,8 @@
   <img src="download_-_2026-09-29T205232.664-removebg-preview.png" width="300" alt="Gothic Potrait"/>
 </p>
     
-   ____1_-removebg-preview.png
-        Welcome 𝔱𝔬 𝔪𝔶 READ.ME .
+
+   
   
       
       ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  Zan, Fang ,  Noir , or Arlecchin
