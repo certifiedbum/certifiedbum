@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="rentry_-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="till_graphic_f2u-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
     
 ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
