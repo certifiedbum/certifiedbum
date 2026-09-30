@@ -10,7 +10,7 @@ Scroll down for info !
 
 
 <p align="center">
-  <img src="Untitled_design__16_-removebg-preview.pn" width="500" alt="Gothic Potrait"/>
+  <img src="Screenshot_2026-09-30_183703-removebg-preview (3).png" width="500" alt="Gothic Potrait"/>
 </p>
 
 
