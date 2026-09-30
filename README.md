@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src= "____1_-removebg-preview.png" width="200" alt="Gothic Potrait"/>
+  <img src= "download_-_2026-09-29T202612.825-removebg-preview.png" width="200" alt="Gothic Potrait"/>
 
 
 <br>
