@@ -48,7 +48,7 @@ Artist is eggsons on TWT
 
 
 </p>
-  <font color="#5a0e0c"> Please don't be afraid to comment or anything, I may not see and I apologize for that, so you could whisper . ︵‿︵‿୨♡୧‿︵‿︵ </love>
+  <font color="#5a0e0c">  . ︵‿︵‿୨♡୧‿︵‿︵ </love>
 </p>
 
 
