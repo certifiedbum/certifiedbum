@@ -1,4 +1,4 @@
-# 𝜗𝜚 ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ   ♡゙    ̹ ̜ㅤ[FANGNOIR.].
+# ㅤ[FANGNOIR.].
 Scroll down for info !
 <p align="center">
   <img src="download_-_2026-09-30T184540.811-removebg-preview.png" width="600" alt="Gothic Potrait"/>
