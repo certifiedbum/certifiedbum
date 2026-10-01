@@ -3,7 +3,7 @@ Scroll down for info !
 ︵‿︵‿୨♡୧‿︵‿︵
 
 <p align="center">
-  <img src="WEMMBU_FANART_____pirate_civ-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="WEMMBU_FANART_____pirate_civ-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
 </p>
 Artist is eggsons on TWT
 
