@@ -26,8 +26,13 @@
    
   
       
-      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  Zan or Fang is fine by me.
-   ᴘʀᴏɴᴏᴜɴs:  he/ him ⊹ ࣪˖┆
+      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  ㅤ
+　　꒰      Ⳋ᧙      `Fang`       ˖   
+　　⋮  ⌗        He/Him   ㅤ‧  ˚  
+  ୭     love.    ˚       .        ᵎᵎ     
+　　𓎟𓎟    s-afk    ⸝⸝ㅤ      ˎˊ˗
+⠀⠀
+  
      ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
     <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs ;  Chilling out .
       
