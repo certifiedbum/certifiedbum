@@ -7,7 +7,7 @@ Scroll down for info !
 <p align="center">
   <img src="WEMMBU_FANART_____pirate_civ-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
-
+Artist is eggsons on TWT
 
 <p align="center">
   <img src="download_-_2026-09-30T184540.811-removebg-preview.png" width="500" alt="Gothic Potrait"/>
@@ -23,7 +23,8 @@ Scroll down for info !
 
 <p align="center">
   <img src= "Screenshot_2026-09-30_183703-removebg-preview (3).png" width="500" alt="Gothic Potrait"/>
-Artist is eggsons on twt.
+
+
 <br>
 
 
