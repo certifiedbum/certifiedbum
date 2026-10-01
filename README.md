@@ -22,7 +22,7 @@ Artist is eggsons on TWT
   ۫  ⊹     angel      命
 
 <p align="center">
-  <img src= "WEMMBU_FANART____️_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
+  <img src= "download_-_2026-09-30T202449.404-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 
 
 <br>
