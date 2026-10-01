@@ -22,9 +22,9 @@ Artist is eggsons on TWT
   ۫  ⊹     angel      命
 
 <p align="center">
-  <img src= "Screenshot_2026-09-30_183703-removebg-preview (3).png" width="500" alt="Gothic Potrait"/>
+  <img src= "______wemmbu____art_by_eret_me_-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 
-
+Art by Eret . 
 <br>
 
 
