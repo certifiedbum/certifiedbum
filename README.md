@@ -61,5 +61,5 @@ Artist is eggsons on TWT
 </p>
 
 <p align="center">
-  <img src="Wemmbu_chibi_keychain_photo-removebg-preview.png" width="300" alt="Gothic Potrait"/>
+  <img src="Wemmbu_chibi_keychain_photo-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
