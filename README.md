@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="Wemmbu_chibi_keychain_photo-removebg-preview.pg" width="500" alt="Gothic Potrait"/>
+  <img src="__madoka_dazai_nendoriod____-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
