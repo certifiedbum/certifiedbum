@@ -23,8 +23,7 @@ Scroll down for info !
 
 <p align="center">
   <img src= "Screenshot_2026-09-30_183703-removebg-preview (3).png" width="500" alt="Gothic Potrait"/>
-
-
+Artist is eggsons on twt.
 <br>
 
 
