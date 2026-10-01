@@ -1,6 +1,6 @@
 # ㅤ[FANGNOIR.].
-Scroll down for info !
-︵‿︵‿୨♡୧‿︵‿︵
+
+
 
 <p align="center">
   <img src="ℛepost___𝒸redit____‿‿_𓏵_________݃___𓃉__mbm__-removebg-preview.png" width="600" alt="Gothic Potrait"/>
@@ -19,8 +19,7 @@ Scroll down for info !
 
   ۫  ⊹     angel      命
 
-<p align="center">
-  <img src= "download_-_2026-09-30T202449.404-removebg-preview.png" width="500" alt="Gothic Potrait"/>
+︵‿︵‿୨♡୧‿︵‿︵  ︵‿︵‿୨♡୧‿︵‿︵  ︵‿︵‿୨♡୧‿︵‿︵   
 
 
 <br>
