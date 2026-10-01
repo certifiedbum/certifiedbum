@@ -61,5 +61,5 @@ Artist is eggsons on TWT
 </p>
 
 <p align="center">
-  <img src="download_-_2026-09-30T184615.967-removebg-preview.png" width="300" alt="Gothic Potrait"/>
+  <img src="download_-_2026-09-30T184615.967-removebg-preview.pn" width="300" alt="Gothic Potrait"/>
 </p>
