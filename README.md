@@ -3,9 +3,9 @@ Scroll down for info !
 ︵‿︵‿୨♡୧‿︵‿︵
 
 <p align="center">
-  <img src="WEMMBU_FANART_____pirate_civ-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
+  <img src="ℛepost___𝒸redit____‿‿_𓏵_________݃___𓃉__mbm__-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
-Artist is eggsons on TWT
+
 
 <p align="center">
   <img src="download_-_2026-09-30T184540.811-removebg-preview.png" width="500" alt="Gothic Potrait"/>
