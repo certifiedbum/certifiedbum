@@ -6,7 +6,6 @@
   <img src="ℛepost___𝒸redit____‿‿_𓏵_________݃___𓃉__mbm__-removebg-preview.png" width="600" alt="Gothic Potrait"/>
 </p>
 creds to Euni . 
-[OLD USER WAS FANGNOIR JUST SO YK]
 ︵‿︵‿୨♡୧‿︵‿︵    ︵‿︵‿୨♡୧‿︵‿︵      ︵‿︵‿୨♡୧‿︵‿︵
 
 
@@ -23,7 +22,7 @@ creds to Euni .
 <br>
 
 
-
+Old user was Fangnoir .
    
   
       
