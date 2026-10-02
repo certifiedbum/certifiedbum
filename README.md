@@ -64,3 +64,4 @@ Old user was Fangnoir .
 </p>
 
 certified unpopular bum .
+please cud freely because i am hella lonely , (you don't have to if you're viewing this)
