@@ -1,4 +1,4 @@
-# ㅤ[FANGNOIR.].
+# ㅤ[README.].
 
 
 
@@ -63,3 +63,5 @@ creds to Euni .
 <p align="center">
   <img src="__madoka_dazai_nendoriod____-removebg-preview.png" width="500" alt="Gothic Potrait"/>
 </p>
+
+certified unpopular bum .
