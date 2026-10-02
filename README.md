@@ -38,6 +38,9 @@ Old user was Fangnoir .
       
         🛑DNI: ᴡᴇɪʀᴅ ᴘᴇᴏᴘʟᴇ , ᴏᴘs , ᴛᴏxɪᴄ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs , ᴋᴇᴇᴘ ᴛʜᴇ ᴠɪʙᴇs ᴄʜɪʟʟ. 
 
+        Thank you followers !!  I will mostly follow back if I can
+      
+
   </tr>
 </table>
 
