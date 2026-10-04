@@ -18,7 +18,7 @@
 Old user was Fangnoir .
 
 <p align="center">
-  <img src="omori (2).png" width="200" alt="Gothic Potrait"/>
+  <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
 ⠀⠀
 
 <p align="center">
@@ -32,7 +32,7 @@ Old user was Fangnoir .
 </p>
 
 <p align="center">
-  <img src="jinx 4.webp" width="500" alt="Gothic Potrait"/>
+  <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
 </p>
 
 certified unpopular bum .
