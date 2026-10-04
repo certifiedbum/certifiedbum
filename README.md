@@ -11,6 +11,9 @@
 
 <br>
 
+<p align="center">
+  <img src="piano divider.gif" width="600" alt="Gothic Potrait"/>
+</p>
 
 Old user was Fangnoir .
 
