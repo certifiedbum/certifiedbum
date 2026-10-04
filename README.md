@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="omori (3).png" width="700" alt="Gothic Potrait"/>
+  <img src="omori (3).png" width="500" alt="Gothic Potrait"/>
 </p>
  
 
