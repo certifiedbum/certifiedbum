@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="tumblr lyn.we" width="700" alt="Gothic Potrait"/>
+  <img src="omori (3).png" width="700" alt="Gothic Potrait"/>
 </p>
  
 
@@ -12,13 +12,13 @@
 <br>
 
 <p align="center">
-  <img src="piano divider.gif" width="600" alt="Gothic Potrait"/>
+  <img src="divider red.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 Old user was Fangnoir .
 
 <p align="center">
-  <img src="tumblr lol.webp" width="200" alt="Gothic Potrait"/>
+  <img src=" omori (2).png" width="200" alt="Gothic Potrait"/>
 ⠀⠀
 <p align="center">
   <img src="tumbler button.webp" width="80" alt="Gothic Potrait"/><p align="center">
