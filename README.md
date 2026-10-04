@@ -20,26 +20,16 @@ Old user was Fangnoir .
 <p align="center">
   <img src="jinx 2.png" width="600" alt="Gothic Potrait"/>
 ⠀⠀
-  
-     ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
-    <b> ᴜsᴜᴀʟ ʜᴀᴜɴᴛs ;  Chilling out .
-      
-        🛑DNI: ᴡᴇɪʀᴅ ᴘᴇᴏᴘʟᴇ , ᴏᴘs , ᴛᴏxɪᴄ ɪɴᴛᴇʀᴀᴄᴛɪᴏɴs , ᴋᴇᴇᴘ ᴛʜᴇ ᴠɪʙᴇs ᴄʜɪʟʟ. 
-
-        Thank you followers !!  I will mostly follow back if I can
-      
-
-  </tr>
-</table>
-
-<br>
-
-</p>
+<p align="center">
+  <img src="tumblr button.webp" width="200" alt="Gothic Potrait"/>  
+<p align="center">
+  <img src="tumblr lavender button.webp" width="200" alt="Gothic Potrait"/>   
+<p align="center">
+  <img src="tumblr lavender buttonn.webp" width="600" alt="Gothic Potrait"/>
 
 
-</p>
-  <font color="#5a0e0c">  . ︵‿︵‿୨♡୧‿︵‿︵ </love>
-</p>
+
+
 
 
 </p>
