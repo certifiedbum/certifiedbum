@@ -3,20 +3,10 @@
 
 
 <p align="center">
-  <img src="ℛepost___𝒸redit____‿‿_𓏵_________݃___𓃉__mbm__-removebg-preview.png" width="600" alt="Gothic Potrait"/>
+  <img src="ℛepost___𝒸redit____‿‿_𓏵_________݃___𓃉__mbm__-removebg-preview.pn" width="600" alt="Gothic Potrait"/>
 </p>
-creds to Euni . 
-︵‿︵‿୨♡୧‿︵‿︵    ︵‿︵‿୨♡୧‿︵‿︵      ︵‿︵‿୨♡୧‿︵‿︵
+ 
 
-
-
-ㅤ         𓈒    ୭ৎ    ᥴᥲ𝗍s  ᥱyᥱs    𝅄          ۪   ݁   𓈒 
-
-ㅤㅤ ۪      𝅄     ꒰  태형  ꒱    ۪   ݁  𝟷𝟷 : 𝟷𝟷   ݁   ۪    ୧
-
-  ۫  ⊹     angel      命
-
-︵‿︵‿୨♡୧‿︵‿︵  ︵‿︵‿୨♡୧‿︵‿︵  ︵‿︵‿୨♡୧‿︵‿︵   
 
 
 <br>
