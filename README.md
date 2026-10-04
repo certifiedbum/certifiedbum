@@ -33,18 +33,12 @@ Old user was Fangnoir .
 
 
 
-
-
-</p>
-  <font color="#5a0e0c"
-</p>
-
 <p align="center">
   <font size="2" color="#5c5c5c"><i>"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."</i></font>
 </p>
 
 <p align="center">
-  <img src="__madoka_dazai_nendoriod____-removebg-preview.png" width="500" alt="Gothic Potrait"/>
+  <img src="jinx 4.webp" width="500" alt="Gothic Potrait"/>
 </p>
 
 certified unpopular bum .
