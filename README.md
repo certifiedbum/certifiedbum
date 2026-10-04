@@ -13,14 +13,9 @@
 
 
 Old user was Fangnoir .
-   
-  
-      
-      ⛓️ɴɪᴄᴋɴᴀᴍᴇ:  ㅤ
-　　꒰      Ⳋ᧙      `Fang`       ˖   
-　　⋮  ⌗        He/Him   ㅤ‧  ˚  
-  ୭     love.    ˚       .        ᵎᵎ     
-　　𓎟𓎟    s-afk    ⸝⸝ㅤ      ˎˊ˗
+
+<p align="center">
+  <img src="jinx 2.png" width="600" alt="Gothic Potrait"/>
 ⠀⠀
   
      ᴀʙᴏᴜᴛ ᴍᴇ: ᴄᴀusᴜᴀʟ ᴘᴏɴʏᴛᴏᴡɴ sᴋɪɴ ᴅᴇsɪɢɴᴇʀ ⊹ ࣪˖┆
