@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="tumblr lyn.webp" width="600" alt="Gothic Potrait"/>
+  <img src="tumblr lyn.webp" width="700" alt="Gothic Potrait"/>
 </p>
  
 
@@ -18,7 +18,7 @@
 Old user was Fangnoir .
 
 <p align="center">
-  <img src="tumblr lol.webp" width="600" alt="Gothic Potrait"/>
+  <img src="tumblr lol.webp" width="200" alt="Gothic Potrait"/>
 ⠀⠀
 <p align="center">
   <img src="tumbler button.webp" width="80" alt="Gothic Potrait"/><p align="center">
