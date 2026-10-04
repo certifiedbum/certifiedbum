@@ -21,9 +21,9 @@ Old user was Fangnoir .
   <img src="jinx 2.png" width="600" alt="Gothic Potrait"/>
 ⠀⠀
 <p align="center">
-  <img src="tumbler button.webp" width="200" alt="Gothic Potrait"/><p align="center">
-  <img src="tumblr lavender button.webp" width="200" alt="Gothic Potrait"/><p align="center">
-  <img src="tumblr button.webp" width="200" alt="Gothic Potrait"/> 
+  <img src="tumbler button.webp" width="80" alt="Gothic Potrait"/><p align="center">
+  <img src="tumblr lavender button.webp" width="80" alt="Gothic Potrait"/><p align="center">
+  <img src="tumblr lavender buttonnn.webp" width="80" alt="Gothic Potrait"/> 
 
 
 
