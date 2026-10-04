@@ -18,12 +18,8 @@
 Old user was Fangnoir .
 
 <p align="center">
-  <img src=" omori (2).png" width="200" alt="Gothic Potrait"/>
+  <img src="omori (2).png" width="200" alt="Gothic Potrait"/>
 ⠀⠀
-<p align="center">
-  <img src="tumbler button.webp" width="80" alt="Gothic Potrait"/><p align="center">
-  <img src="tumblr lavender button.webp" width="80" alt="Gothic Potrait"/><p align="center">
-  <img src="tumblr lavender buttonnn.webp" width="80" alt="Gothic Potrait"/> 
 
 
 <p align="center">
