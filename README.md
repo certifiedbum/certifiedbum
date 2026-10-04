@@ -18,7 +18,7 @@
 Old user was Fangnoir .
 
 <p align="center">
-  <img src="omori (5).png" width="400" alt="Gothic Potrait"/>
+  <img src="omori (1).png" width="400" alt="Gothic Potrait"/>
 ⠀⠀
 
 <p align="center">
