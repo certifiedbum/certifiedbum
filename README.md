@@ -21,10 +21,8 @@ Old user was Fangnoir .
   <img src="omori (2).png" width="200" alt="Gothic Potrait"/>
 ⠀⠀
 
-
 <p align="center">
-  <img src="piano divider.gif" width="600" alt="Gothic Potrait"/>
-</p>
+  <img src="divider red.png" width="600" alt="Gothic Potrait"/>
 
 
 
