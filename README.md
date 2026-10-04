@@ -26,7 +26,9 @@ Old user was Fangnoir .
   <img src="tumblr lavender buttonnn.webp" width="80" alt="Gothic Potrait"/> 
 
 
-
+<p align="center">
+  <img src="piano divider.gif" width="600" alt="Gothic Potrait"/>
+</p>
 
 
 
