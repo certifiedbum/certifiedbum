@@ -12,14 +12,19 @@
 <p align="center">
   <img src="divider red.png" width="800" alt="Gothic Potrait"/>
 </p>
-<!-- 1. HEADER SECTION -->
-<p align="center">
-  <!-- Tip: Replace this link with your own banner image later! -->
-  <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
-</p>
+
+
+</p><!-- 1. HEADER SECTION -->
+
 <p align="center">
   <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
 </p>
+<p align="center">
+  <!-- Tip: Replace this link with your own banner image later! -->
+  <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
+
+
+
  <!-- Left Column Box tired . --> 
  <table align="center" width="100%"> 
   
