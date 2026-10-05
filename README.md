@@ -40,4 +40,6 @@
 
 certified unpopular bum .
 creds to lavendar
-
+<p align="center">
+  <img src="kangel divider.jpg" width="800" alt="Gothic Potrait"/>
+</p>
