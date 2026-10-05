@@ -91,21 +91,21 @@ sniffs
     <!-- Tall Profile Intro Box -->
     <td align="left" width="40%" rowspan="2" valign="top">
       <h4>📍 INFO </h4>
-      $\small\color{tomato}\text{I like doing art, spending time with friends, ext.}$<br>
-      $\small\color{tomato}\text{Focus:making ponies }$<br>
-      $\small\color{tomato}\text{Status: currently tweaking out }$
+      $\small\color{cyan}\text{I like doing art, spending time with friends, ext.}$<br>
+      $\small\color{yellow}\text{Focus:making ponies }$<br>
+      $\small\color{blue}\text{Status: currently tweaking out }$
     </td>
     <!-- Top Right Stats Box -->
     <td align="center" width="60%">
       <b>CURRENT PROJECTS</b><br>
-      $\color{firebrick}\dih{dih}$
+      $\color{blue}dih{dih}$
     </td>
   </tr>
   <tr>
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>FOLLOWERS</b><br>
-      $\color{firebrick}thank you for {following I appreciate }$
+      $\color{blue}thank you for {following I appreciate }$
     </td>
   </tr>
 </table>
@@ -124,8 +124,8 @@ sniffs
 
 
 
-<p align="center">
-  <font size="2" $\small\color{blue}\text{ "If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."+ /}$
+
+<p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."+ /}$
 </p>
 
 <p align="center">
