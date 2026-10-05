@@ -30,24 +30,24 @@
     <!-- Left Column Box -->
     <td align="center" width="50%">
       <b>CURRENT FOCUS</b><br>
-      $\color{cyan}\text{Learning Full-Stack Dev}$
+      $\color{firebrick}\text{Learning Full-Stack Dev}$
     </td>
     <!-- Right Column Box -->
     <td align="center" width="50%">
       <b>MAIN TOOLS</b><br>
-      $\color{magenta}\text{VS Code / Git / Markdown}$
+      $\color{firebrick}\text{VS Code / Git / Markdown}$
     </td>
   </tr>
   <tr>
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
       <b>CURRENT VIBE</b><br>
-      $\color{orange}\text{☕ Coffee \& Code}$
+      $\color{firebrick}\text{☕ Coffee \& Code}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
       <b>PROJECT STATUS</b><br>
-      $\color{seagreen}\text{Building New Ideas}$
+      $\color{firebrick}\text{Building New Ideas}$
     </td>
   </tr>
 </table>
