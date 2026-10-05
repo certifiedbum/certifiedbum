@@ -19,8 +19,8 @@
 </p>
  <!-- Left Column Box -->
     <td align="center" width="50%">
-      <b>CURRENT FOCUS</b><br>
-      $\color{firebrick}\text{Learning Full-Stack Dev}$
+      <b>DISCORD:</b><br>
+      $\color{firebrick} .fangnoir {Learning Full-Stack Dev}$
     </td>
 </p>
 
