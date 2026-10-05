@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="rentry tumbl.png" width="500" alt="Gothic Potrait"/>
+  <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
 </p>
 
  
@@ -25,7 +25,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="rentry tumbl.png" width="300" alt="Gothic Potrait"/>
+  <img src="omori (1).png" width="300" alt="Gothic Potrait"/>
 
 
 
