@@ -31,7 +31,7 @@
      
     <The unpopular bum . >
 </p>
-
+"Omori says never get too attached."
 ---
 
 <!-- 2. THE CUSTOM BOXED GRID -->
@@ -114,11 +114,11 @@ sniffs
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"Writing clean structures, breaking barriers, and optimizing setups."</i>
+  <i>"Wondering if there's anything new in life that would come up."</i>
 </p>
 
 <p align="center">
-  $\small\color{darkred}\text{🩸 System stable. Feel free to explore my open source repositories.}$
+  $\small\color{darkred}\text{🩸 "Cause I'd rot in hell with you, if you'd just ask me to.".}$
 </p>
 
 
