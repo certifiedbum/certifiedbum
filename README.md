@@ -8,47 +8,7 @@
 </p>
 
  
-<td align="center">
-  <b>STATUS:</b><br>
-  $\color{crimson}\text{BURNINGEYES.}$
-</td>
-$$\color{firebrick}\text{Omori is crashing out right now }$$
-<table align="center" width="100%">
-  <tr>
-    <!-- Box 1 -->
-    <td align="center" width="25%">
-      <b>NAME:</b><br>OMORI
-    </td>
-    <!-- Box 2 -->
-    <td align="center" width="25%">
-      <b>STATUS:</b><br>BURNINGEYES
-    </td>
-    <!-- Box 3 -->
-    <td align="center" width="25%">
-      <b>SKILL:</b><br>TOES
-    </td>
-  </tr>
-</table>
-<br>
-<p align="center">
-  <i>"OMORI."</i>
-</p>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <b>NAME:</b><br>
-   OMORI
-    </td>
-    <td align="center">
-      <b>STATUS:</b><br>
-      TOES
-    </td>
-    <td align="center">
-      <b>SKILL:</b><br>
-      BURNING EYES
-    </td>
-  </tr>
-</table>
+
 <p align="center">
   <img src="divider red.png" width="800" alt="Gothic Potrait"/>
 </p>
