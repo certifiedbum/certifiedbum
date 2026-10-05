@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="kangel divider.jpg" width="800" alt="Gothic Potrait"/>
+</p>
 
 
 <p align="center">
