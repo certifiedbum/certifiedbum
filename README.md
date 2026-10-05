@@ -78,7 +78,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="UNUSED CONTENT.gi" width="500" alt="Gothic Potrait"/>
+  <img src="omori basil discord pfp gif.gif" width="500" alt="Gothic Potrait"/>
 <!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
 sniffs
 
