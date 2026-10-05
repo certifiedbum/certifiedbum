@@ -18,9 +18,9 @@
   <img src="" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
 
-<p align="center">
-  $$\color{firebrick}\text{Learning Full-Stack Dev}$
-    </td>{WELCOME TO MY PROFILE}}$
+ <td align="center" width="50%">
+      <b>CURRENT FOCUS</b><br>
+      $\color{firebrick}\text{Learning Full-Stack Dev}$$
 </p>
 
 ---
