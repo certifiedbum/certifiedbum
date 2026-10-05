@@ -18,6 +18,7 @@
   <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
  <!-- Left Column Box -->
+ <table align="center" width="100%"> 
   
      
     </td>
