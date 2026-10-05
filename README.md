@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="kangel divider.jp" width="600" alt="Gothic Potrait"/>
+  <img src="bow divider.gif" width="600" alt="Gothic Potrait"/>
 </p>
 
 Old user was Fangnoir .
