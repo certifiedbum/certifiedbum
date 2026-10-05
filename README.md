@@ -105,7 +105,7 @@ sniffs
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>FOLLOWERS</b><br>
-      $\color{firebrick}thank you for{following I appreciate }$
+      $\color{firebrick}thank you for {following I appreciate }$
     </td>
   </tr>
 </table>
