@@ -15,7 +15,7 @@
   <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
 </p>
 
-Old user was Fangnoir .
+
 
 <p align="center">
   <img src="kangel.webp" width="400" alt="Gothic Potrait"/>
