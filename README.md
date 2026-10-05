@@ -57,7 +57,7 @@
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
       <b> W2I </b><br>
-      $\color{firebrick}\Mostly W2I because I'm offtab watching {youtube }$
+      $\color{firebrick}\Mostly W2I because Im offtab watching {youtube }$
     </td>
   </tr>
 </table>
