@@ -45,7 +45,7 @@
     <!-- Right Column Box -->
     <td align="center" width="50%">
       <b>MAIN TOOLS</b><br>
-      $\color{firebrick}\text{VS Code / Git / Markdown}$
+      $\color{firebrick}\i eat ur hair{idkidkidk}$
     </td>
   </tr>
   <tr>
