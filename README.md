@@ -30,7 +30,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <font size="2" color="#F8C4D6"><i>"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."</i></font>
 </p>
 
