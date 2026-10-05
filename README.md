@@ -92,7 +92,7 @@ sniffs
     <td align="left" width="40%" rowspan="2" valign="top">
       <h4>📍 INFO </h4>
       $\small\color{cyan}\text{I like doing art, spending time with friends, ext.}$<br>
-      $\small\color{yellow}\text{Focus:making ponies }$<br>
+      $\small\color{yellow}\text{Focus: making ponies }$<br>
       $\small\color{blue}\text{Status: currently tweaking out }$
     </td>
     <!-- Top Right Stats Box -->
@@ -105,7 +105,7 @@ sniffs
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>FOLLOWERS</b><br>
-      $\color{blue}thank you for {following I appreciate }$
+      $\color{blue}thank you {followers}$
     </td>
   </tr>
 </table>
