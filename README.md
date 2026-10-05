@@ -129,7 +129,7 @@ sniffs
 </p>
 
 <p align="center">
-  <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
+  <img src="omori (4).pn" width="500" alt="Gothic Potrait"/>
 </p>
 
 creds to lavendar
