@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <!-- Tip: Replace this link with your own banner image later! -->
-  <img src="tumblr divider 2 down.png" width="100%" alt="Aesthetic Abstract Banner" />
+  <img src="tumblr divider 2 down.png" width="50%" alt="Aesthetic Abstract Banner" />
 
 
 
