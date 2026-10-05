@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="rentry tumblro.webp" width="500" alt="Gothic Potrait"/>
+  <img src="rentry tumbl.png" width="500" alt="Gothic Potrait"/>
 </p>
 
  
