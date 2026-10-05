@@ -45,19 +45,19 @@
     <!-- Right Column Box -->
     <td align="center" width="50%">
       <b>idkidkidk</b><br>
-      $\color{firebrick}i eat ur hair{ for dinner }$
+      $\color{cyan}i eat ur hair{ for dinner }$
     </td>
   </tr>
   <tr>
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
       <b>OMORI.</b><br>
-      $\color{firebrick}\burning eyes of tears.{lolol}$
+      $\color{cyan}\burning eyes of tears.{lolol}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
       <b> W2I </b><br>
-      $\color{firebrick}\Mostly W2I because Im offtab watching {youtube }$
+      $\color{cyan}\Mostly W2I because Im offtab watching {youtube }$
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  $\small\color{lightgray}\text{"Tonight we roam, and if we listen really close, they can hear us sing our song".}$
+  $\small\color{cyan}\text{"Tonight we roam, and if we listen really close, they can hear us sing our song".}$
 </p>
 
 
