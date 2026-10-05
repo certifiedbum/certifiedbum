@@ -17,7 +17,7 @@
   <!-- Tip: Replace this link with your own banner image later! -->
   <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
- <!-- Left Column Box -->
+ <!-- Left Column Box --> afk
  <table align="center" width="100%"> 
   
      
