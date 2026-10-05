@@ -80,7 +80,7 @@
 <p align="center">
   <img src="omori (3).png" width="500" alt="Gothic Potrait"/>
 <!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
- [!WARNING]
+sniffs
 
 
 ---
@@ -90,10 +90,10 @@
   <tr>
     <!-- Tall Profile Intro Box -->
     <td align="left" width="40%" rowspan="2" valign="top">
-      <h4>📍 OVERVIEW</h4>
-      $\small\color{tomato}\text{User ID: Creative Dev}$<br>
-      $\small\color{tomato}\text{Focus: Front-End UI}$<br>
-      $\small\color{tomato}\text{Status: Building Ideas}$
+      <h4>📍 INFO </h4>
+      $\small\color{tomato}\text{I like doing art, spending time with friends, ext.}$<br>
+      $\small\color{tomato}\text{Focus:making ponies }$<br>
+      $\small\color{tomato}\text{Status: currently tweaking out }$
     </td>
     <!-- Top Right Stats Box -->
     <td align="center" width="60%">
