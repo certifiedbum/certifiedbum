@@ -25,7 +25,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
+  <img src="rentry tumbl.png" width="300" alt="Gothic Potrait"/>
 
 
 
