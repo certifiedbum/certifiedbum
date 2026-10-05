@@ -19,7 +19,7 @@
 
 
 
-<p align="center">
+<p align="right">
   <img src="kangel.webp" width="400" alt="Gothic Potrait"/>
 ⠀⠀
 
