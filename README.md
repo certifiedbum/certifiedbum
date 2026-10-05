@@ -12,17 +12,17 @@ p align="center">
 <br>
 
 <p align="center">
-  <img src="divider red.png" width="600" alt="Gothic Potrait"/>
+  <img src="kangel divider.jpg" width="600" alt="Gothic Potrait"/>
 </p>
 
 Old user was Fangnoir .
 
 <p align="center">
-  <img src="omori (1).png" width="400" alt="Gothic Potrait"/>
+  <img src="kangel.webp" width="400" alt="Gothic Potrait"/>
 ⠀⠀
 
 <p align="center">
-  <img src="divider red.png" width="600" alt="Gothic Potrait"/>
+  <img src="kangel divider.jpg" width="600" alt="Gothic Potrait"/>
 
 
 
@@ -32,8 +32,8 @@ Old user was Fangnoir .
 </p>
 
 <p align="center">
-  <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
+  <img src="kangelzz.webp" width="500" alt="Gothic Potrait"/>
 </p>
 
 certified unpopular bum .
-please cud freely because i am hella lonely , (you don't have to if you're viewing this)
+
