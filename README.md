@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <img src="omori (5).png" width="500" alt="Gothic Potrait"/>
+  <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
 </p>
 
 certified unpopular bum .
