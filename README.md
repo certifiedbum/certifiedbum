@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-  $\large\color{royalblue}\textbf{\text{WELCOME TO MY PROFILE}}$
+  $$\color{firebrick}\text{Learning Full-Stack Dev}$
+    </td>{WELCOME TO MY PROFILE}}$
 </p>
 
 ---
