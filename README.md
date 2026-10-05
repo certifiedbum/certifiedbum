@@ -40,7 +40,7 @@
     <!-- Left Column Box -->
     <td align="center" width="50%">
       <b>MIDNIGHTSLEEPER</b><br>
-      $\color{firebrick}I like to sleep 
+   {firebrick}I like to sleep 
     </td>
     <!-- Right Column Box -->
     <td align="center" width="50%">
