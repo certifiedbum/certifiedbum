@@ -20,7 +20,7 @@
  <!-- Left Column Box -->
     <td align="center" width="50%">
       <b>DISCORD:</b><br>
-      $\color{firebrick} .fangnoir {Learning Full-Stack Dev}$
+      $\color{firebrick} .fangnoir {.fangnoir}$
     </td>
 </p>
 
