@@ -52,7 +52,7 @@
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
       <b>OMORI.</b><br>
-      $\color{firebrick}\burning eyes of tears.{STRESSING}$
+      $\color{firebrick}\burning eyes of tears.{lolol}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
