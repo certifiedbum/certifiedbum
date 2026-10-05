@@ -56,8 +56,8 @@
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
-      <b>PROJECT STATUS</b><br>
-      $\color{firebrick}\text{Building New Ideas}$
+      <b>SIGN ATA </b><br>
+      $\color{firebrick}\sign ata if you want to {I may check it lately }$
     </td>
   </tr>
 </table>
