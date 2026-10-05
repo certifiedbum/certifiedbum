@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider red.png" width="800" alt="Gothic Potrait"/>
+  <img src="divider red.pn" width="800" alt="Gothic Potrait"/>
 </p>
 
 
