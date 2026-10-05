@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="bow divider.jpg" width="300" alt="Gothic Potrait"/>
+  <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="bow divider.jpg" width="300" alt="Gothic Potrait"/>
+  <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
 
 
 
