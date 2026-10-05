@@ -45,7 +45,7 @@
     <!-- Right Column Box -->
     <td align="center" width="50%">
       <b>idkidkidk</b><br>
-      $\color{firebrick}\i eat ur hair{ for dinner }$
+      $\color{firebrick}i eat ur hair{ for dinner }$
     </td>
   </tr>
   <tr>
