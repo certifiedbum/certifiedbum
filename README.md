@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  $\small\color{lightgray}\text{"Tonight we roam, and if we listen really close, they can hear us sing our song.}$
+  $\small\color{lightgray}\text{"Tonight we roam, and if we listen really close, they can hear us sing our song".}$
 </p>
 
 
