@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kangel divider.jpg" width="800" alt="Gothic Potrait"/>
+  <img src="divider red.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
+  <img src="divider red.png" width="300" alt="Gothic Potrait"/>
 </p>
 
 
@@ -41,5 +41,5 @@
 certified unpopular bum .
 creds to lavendar
 <p align="center">
-  <img src="kangel divider.jpg" width="800" alt="Gothic Potrait"/>
+  <img src="divider red.png" width="800" alt="Gothic Potrait"/>
 </p>
