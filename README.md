@@ -98,7 +98,7 @@ sniffs
     <!-- Top Right Stats Box -->
     <td align="center" width="60%">
       <b>CURRENT PROJECTS</b><br>
-      $\color{firebrick}\text{Custom Web Architecture}$
+      $\color{firebrick}\dih{dih}$
     </td>
   </tr>
   <tr>
