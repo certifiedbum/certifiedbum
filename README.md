@@ -69,7 +69,49 @@
 
 <p align="center">
   <img src="omori (3).png" width="500" alt="Gothic Potrait"/>
-<!-- 1. HEADER SECTION -->
+<!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
+> [!WARNING]
+> $\large\color{crimson}\textbf{\text{SYSTEM RUNTIME: ACTIVE}}$
+> 
+> *Welcome to my development space. Exploring code, security, and script building.*
+
+---
+
+<!-- ASYMMETRIC DESIGN GRID -->
+<table align="center" width="100%">
+  <tr>
+    <!-- Tall Profile Intro Box -->
+    <td align="left" width="40%" rowspan="2" valign="top">
+      <h4>📍 OVERVIEW</h4>
+      $\small\color{tomato}\text{User ID: Creative Dev}$<br>
+      $\small\color{tomato}\text{Focus: Front-End UI}$<br>
+      $\small\color{tomato}\text{Status: Building Ideas}$
+    </td>
+    <!-- Top Right Stats Box -->
+    <td align="center" width="60%">
+      <b>CURRENT PROJECTS</b><br>
+      $\color{firebrick}\text{Custom Web Architecture}$
+    </td>
+  </tr>
+  <tr>
+    <!-- Bottom Right Stats Box -->
+    <td align="center" width="60%">
+      <b>PRIMARY COMPILER</b><br>
+      $\color{firebrick}\text{VS Code / Git Automation}$
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- CENTERED QUOTE -->
+<p align="center">
+  <i>"Writing clean structures, breaking barriers, and optimizing setups."</i>
+</p>
+
+<p align="center">
+  $\small\color{darkred}\text{🩸 System stable. Feel free to explore my open source repositories.}$
+</p>
 
 
 
