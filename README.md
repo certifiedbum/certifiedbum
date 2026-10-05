@@ -18,9 +18,8 @@
   <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
  <!-- Left Column Box -->
-    <td align="center" width="50%">
-      <b>DISCORD:</b><br>
-      $\color{firebrick} .fangnoir {.fangnoir}$
+  
+     
     </td>
 </p>
 
