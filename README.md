@@ -31,7 +31,7 @@
      
     <The unpopular bum . >
 </p>
-"Omori says never get too attached."
+"Bumzo says never get too attached."
 ---
 
 <!-- 2. THE CUSTOM BOXED GRID -->
@@ -51,7 +51,7 @@
   <tr>
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
-      <b>OMORI.</b><br>
+      <b>BUMZ0.</b><br>
       $\color{cyan}burning eyes of tears.{lolol}$
     </td>
     <!-- Bottom Right Box -->
@@ -66,7 +66,7 @@
 
 <!-- 3. FOOTER QUOTE SECTION -->
 <p align="center">
-  <i>"Omori is under your bed right now."</i>
+  <i>"I am under your bed right now."</i>
 </p>
 
 <p align="center">
