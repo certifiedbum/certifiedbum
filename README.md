@@ -118,14 +118,14 @@ sniffs
 </p>
 
 <p align="center">
-  $\small\color{darkred}\text{🩸 "Cause I'd rot in hell with you, if you'd just ask me to.".}$
+  $\small\color{blue}\text{ "Cause I'd rot in hell with you, if you'd just ask me to.".}$
 </p>
 
 
 
 
 <p align="center">
-  <font size="2" color="#F8C4D6"><i>"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."</i></font>
+  <font size="2" $\small\color{blue}\text{ "If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."+ /}$
 </p>
 
 <p align="center">
