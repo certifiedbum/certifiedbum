@@ -17,7 +17,7 @@
 </p><!-- 1. HEADER SECTION -->
 
 <p align="center">
-  <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
+  <img src="omori (5).png" width="500" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <!-- Tip: Replace this link with your own banner image later! -->
