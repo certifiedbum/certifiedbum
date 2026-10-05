@@ -104,8 +104,8 @@ sniffs
   <tr>
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
-      <b>PRIMARY COMPILER</b><br>
-      $\color{firebrick}\text{VS Code / Git Automation}$
+      <b>FOLLOWERS</b><br>
+      $\color{firebrick}thank you for{following I appreciate }$
     </td>
   </tr>
 </table>
