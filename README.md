@@ -41,8 +41,8 @@
   <tr>
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
-      <b>CURRENT VIBE</b><br>
-      $\color{firebrick}\text{☕ Coffee \& Code}$
+      <b>OMORI.</b><br>
+      $\color{firebrick}\burning eyes of tears.{☕ Coffee \& Code}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
