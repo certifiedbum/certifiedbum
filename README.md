@@ -22,7 +22,7 @@ Old user was Fangnoir .
 ⠀⠀
 
 <p align="center">
-  <img src="kangel divider.jpg" width="600" alt="Gothic Potrait"/>
+  <img src="kangel divider.jpg" width="300" alt="Gothic Potrait"/>
 
 
 
