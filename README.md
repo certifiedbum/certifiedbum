@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="tumblr kei 2.webp" width="700" alt="Gothic Potrait"/>
+  <img src="tumblr kei 2.webp" width="600" alt="Gothic Potrait"/>
 </p>
 
  
