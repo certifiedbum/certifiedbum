@@ -32,7 +32,7 @@
   <font size="2" color="#F8C4D6"><i>"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."</i></font>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
 </p>
 
