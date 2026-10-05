@@ -16,8 +16,7 @@
 
 </p><!-- 1. HEADER SECTION -->
 
-<p align="center">
-  <img src="tumblr divider kei stars.png" width="500" alt="Gothic Potrait"/>
+
 </p>
 <p align="center">
   <!-- Tip: Replace this link with your own banner image later! -->
