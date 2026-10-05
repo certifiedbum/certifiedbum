@@ -1,7 +1,7 @@
 
 
 
-p align="center">
+
   <img src="KANGELDANGEL.webp" width="500" alt="Gothic Potrait"/>
 </p>
 
