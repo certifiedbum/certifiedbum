@@ -15,7 +15,7 @@
 <!-- 1. HEADER SECTION -->
 <p align="center">
   <!-- Tip: Replace this link with your own banner image later! -->
-  <img src="" width="100%" alt="Aesthetic Abstract Banner" />
+  <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
  <!-- Left Column Box -->
     <td align="center" width="50%">
