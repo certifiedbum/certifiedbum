@@ -19,9 +19,7 @@
 
 
 
-<p align="center">
-  <font size="2" color="#F8C4D6"><i>"A random ponytown designer, I'm bored so I made a funky github "</i></font><p align="right">
-  <img src="kangel.webp" width="400" alt="Gothic Potrait"/>
+
 ⠀⠀
 
 <p align="center">
