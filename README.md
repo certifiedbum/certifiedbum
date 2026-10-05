@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="divider red.pn" width="800" alt="Gothic Potrait"/>
+  <img src="tumblr divider 1 up.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
+  <img src="tumblr kei 2.webp" width="700" alt="Gothic Potrait"/>
 </p>
 
  
 
 <p align="center">
-  <img src="divider red.png" width="800" alt="Gothic Potrait"/>
+  <img src="tumblr kei 1.png" width="300" alt="Gothic Potrait"/>
 </p>
 
 
 </p><!-- 1. HEADER SECTION -->
 
 <p align="center">
-  <img src="omori (5).png" width="500" alt="Gothic Potrait"/>
+  <img src="tumblr divider kei stars.png" width="500" alt="Gothic Potrait"/>
 </p>
 <p align="center">
   <!-- Tip: Replace this link with your own banner image later! -->
-  <img src="divider red.png" width="100%" alt="Aesthetic Abstract Banner" />
+  <img src="tumblr divider 2 down.png" width="100%" alt="Aesthetic Abstract Banner" />
 
 
 
