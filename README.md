@@ -58,7 +58,7 @@
 
 <!-- 3. FOOTER QUOTE SECTION -->
 <p align="center">
-  <i>"Driven by curiosity, building one project at a time."</i>
+  <i>"Omori is under your bed right now."</i>
 </p>
 
 <p align="center">
