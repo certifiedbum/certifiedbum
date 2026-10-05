@@ -25,7 +25,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="omori (1).png" width="300" alt="Gothic Potrait"/>
+  <img src="omori (1).png" width="500" alt="Gothic Potrait"/>
 
 
 
@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <img src="kangelzz.webp" width="500" alt="Gothic Potrait"/>
+  <img src="omori (5).png" width="500" alt="Gothic Potrait"/>
 </p>
 
 certified unpopular bum .
