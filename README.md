@@ -78,7 +78,7 @@
 ⠀⠀
 
 <p align="center">
-  <img src="omori (3).pn" width="500" alt="Gothic Potrait"/>
+  <img src="UNUSED CONTENT.gif" width="500" alt="Gothic Potrait"/>
 <!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
 sniffs
 
