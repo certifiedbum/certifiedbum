@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="bow divider.gif" width="300" alt="Gothic Potrait"/>
+  <img src="kangel divider.jpg" width="300" alt="Gothic Potrait"/>
 </p>
 
 
