@@ -56,8 +56,8 @@
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
-      <b>SIGN ATA </b><br>
-      $\color{firebrick}\sign ata if you want to {I may check it lately }$
+      <b> W2I </b><br>
+      $\color{firebrick}\Mostly W2I because I'm offtab watching {youtube }$
     </td>
   </tr>
 </table>
