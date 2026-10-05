@@ -72,10 +72,8 @@
 <p align="center">
   <img src="omori (3).png" width="500" alt="Gothic Potrait"/>
 <!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
-> [!WARNING]
-> $\large\color{crimson}\textbf{\text{SYSTEM RUNTIME: ACTIVE}}$
-> 
-> *Welcome to my development space. Exploring code, security, and script building.*
+ [!WARNING]
+
 
 ---
 
