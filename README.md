@@ -12,7 +12,56 @@
 <p align="center">
   <img src="divider red.png" width="800" alt="Gothic Potrait"/>
 </p>
+<!-- 1. HEADER SECTION -->
+<p align="center">
+  <!-- Tip: Replace this link with your own banner image later! -->
+  <img src="" width="100%" alt="Aesthetic Abstract Banner" />
+</p>
 
+<p align="center">
+  $\large\color{royalblue}\textbf{\text{WELCOME TO MY PROFILE}}$
+</p>
+
+---
+
+<!-- 2. THE CUSTOM BOXED GRID -->
+<table align="center" width="100%">
+  <tr>
+    <!-- Left Column Box -->
+    <td align="center" width="50%">
+      <b>CURRENT FOCUS</b><br>
+      $\color{cyan}\text{Learning Full-Stack Dev}$
+    </td>
+    <!-- Right Column Box -->
+    <td align="center" width="50%">
+      <b>MAIN TOOLS</b><br>
+      $\color{magenta}\text{VS Code / Git / Markdown}$
+    </td>
+  </tr>
+  <tr>
+    <!-- Bottom Left Box -->
+    <td align="center" width="50%">
+      <b>CURRENT VIBE</b><br>
+      $\color{orange}\text{☕ Coffee \& Code}$
+    </td>
+    <!-- Bottom Right Box -->
+    <td align="center" width="50%">
+      <b>PROJECT STATUS</b><br>
+      $\color{seagreen}\text{Building New Ideas}$
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 3. FOOTER QUOTE SECTION -->
+<p align="center">
+  <i>"Driven by curiosity, building one project at a time."</i>
+</p>
+
+<p align="center">
+  $\small\color{lightgray}\text{Thanks for stopping by! Feel free to explore my repositories.}$
+</p>
 
 
 
