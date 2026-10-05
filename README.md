@@ -17,11 +17,11 @@
   <!-- Tip: Replace this link with your own banner image later! -->
   <img src="" width="100%" alt="Aesthetic Abstract Banner" />
 </p>
-<!-- Center Column Box -->
+ <!-- Left Column Box -->
     <td align="center" width="50%">
       <b>CURRENT FOCUS</b><br>
       $\color{firebrick}\text{Learning Full-Stack Dev}$
-    </td>\color{firebrick}\text{Learning Full-Stack Dev}$$
+    </td>
 </p>
 
 ---
