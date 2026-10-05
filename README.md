@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="omori (2).png" width="500" alt="Gothic Potrait"/>
+  <img src="KANGELDANGEL.webp="500" alt="Gothic Potrait"/>
 </p>
  
 
