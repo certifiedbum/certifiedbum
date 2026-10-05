@@ -29,7 +29,7 @@
  <table align="center" width="100%"> 
   
      
-    <OMORIORI>
+    <The unpopular bum . >
 </p>
 
 ---
@@ -132,7 +132,6 @@ sniffs
   <img src="omori (4).png" width="500" alt="Gothic Potrait"/>
 </p>
 
-certified unpopular bum .
 creds to lavendar
 <p align="center">
   <img src="divider red.png" width="800" alt="Gothic Potrait"/>
