@@ -38,19 +38,19 @@
     <!-- Right Column Box -->
     <td align="center" width="50%">
       <b>idkidkidk</b><br>
-      $\color{cyan}i eat ur hair{ for dinner }$
+      $\color{pink}i eat ur hair{ for dinner }$
     </td>
   </tr>
   <tr>
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
       <b>BUMZ0.</b><br>
-      $\color{cyan}burning eyes of tears.{lolol}$
+      $\color{pink}burning eyes of tears.{lolol}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
       <b> W2I </b><br>
-      $\color{cyan}  Mostly W2i = {on youtube }$
+      $\color{pink}  Mostly W2i = {on youtube }$
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  $\small\color{cyan}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song".}$
+  $\small\color{pink}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song".}$
 </p>
 
 
@@ -83,21 +83,21 @@ sniffs
     <!-- Tall Profile Intro Box -->
     <td align="left" width="40%" rowspan="2" valign="top">
       <h4>📍 INFO </h4>
-      $\small\color{cyan}\text{I like doing art, spending time with friends, ext.}$<br>
-      $\small\color{yellow}\text{Focus: making ponies }$<br>
-      $\small\color{blue}\text{Status: currently tweaking out }$
+      $\small\color{pink}\text{I like doing art, spending time with friends, ext.}$<br>
+      $\small\color{pink}\text{Focus: making ponies }$<br>
+      $\small\color{pink}\text{Status: currently tweaking out }$
     </td>
     <!-- Top Right Stats Box -->
     <td align="center" width="60%">
       <b>CURRENT PROJECTS</b><br>
-      $\color{blue}dih{dih}$
+      $\color{pink}dih{dih}$
     </td>
   </tr>
   <tr>
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>F4F</b><br>
-      $\color{blue}Follow4Follow {back} if i see it $
+      $\color{pink} I follow cs im {bored} $
     </td>
   </tr>
 </table>
@@ -110,7 +110,7 @@ sniffs
 </p>
 
 <p align="center">
-  $\small\color{blue}\text{ "Cause I'd rot in hell with you, if you'd just ask me to.".}$
+  $\small\color{pink}\text{ "Cause I'd rot in hell with you, if you'd just ask me to.".}$
 </p>
 
 
