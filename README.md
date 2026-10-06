@@ -9,21 +9,14 @@
 
  
 
-<p align="center">
-  <img src="tumblr kei 1.png" width="300" alt="Gothic Potrait"/>
-</p>
+
 
 
 </p><!-- 1. HEADER SECTION -->
 
 
-</p>
-<p align="center">
-  <!-- Tip: Replace this link with your own banner image later! -->
-  <img src="tumblr divider 2 down.png" width="80%" alt="Aesthetic Abstract Banner" />
 
-<p align="right">
-  <img src="tumblr divider kei stars.png" width="400" alt="Gothic Potrait"/>
+
 
  <!-- Left Column Box tired . --> 
  <table align="center" width="100%"> 
@@ -128,8 +121,7 @@ sniffs
 <p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."}$
 </p>
 
-<p align="right">
-  <img src="Basil.pn" width="500" alt="Gothic Potrait"/>
-</p>
+
+
 
 
