@@ -58,7 +58,7 @@ New to Github.
     <!-- Bottom Left Box -->
     <td align="center" width="50%">
       <b>BUMZ0.</b><br>
-      $\color{pink}burning eyes of tears.{lolol}$
+      $\color{pink}burning eyes.{lolol}$
     </td>
     <!-- Bottom Right Box -->
     <td align="center" width="50%">
