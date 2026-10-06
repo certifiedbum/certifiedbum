@@ -132,7 +132,8 @@ sniffs
 </p>
 
 
-
+<p align="center">
+  <img src="my pony.png" width="200" alt="Gothic Potrait"/>
 
 
 <p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."}$
