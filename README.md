@@ -104,8 +104,8 @@ sniffs
   <tr>
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
-      <b>FOLLOWERS</b><br>
-      $\color{blue}thank you {followers}$
+      <b>F4F</b><br>
+      $\color{blue}Follow4Follow {back}$
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@ sniffs
 
 
 
-<p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."+ /}$
+<p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."}$
 </p>
 
 <p align="right">
