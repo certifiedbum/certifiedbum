@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider tumblr white and brown.png" width="900" alt="Gothic Potrait"/>
+  <img src="divider tumblr white and brown.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="tumblr pink.webp" width="800" alt="Gothic Potrait"/>
+  <img src="tumblr pink.webp" width="700" alt="Gothic Potrait"/>
 </p>
 
  <a href="https://atabook.org">
