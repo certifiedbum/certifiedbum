@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="divider tumblr white and brown.png" width="900" alt="Gothic Potrait"/>
+  <img src="music ..png" width="900" alt="Gothic Potrait"/>
 </p>
 
 
