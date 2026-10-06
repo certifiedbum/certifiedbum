@@ -11,9 +11,9 @@
 </p>
 
  <a href="https://atabook.org">
-  <img src="tumblr icon roblox.png" alt="Guestbook" width="200">   <a href="https://atabook.org">   
-  <img src="tumblr icon pink roblox.png" alt="Guestbook" width="200">    <a href="https://atabook.org">
-  <img src="tumblr icon roblox.png" alt="Guestbook" width="200">
+  <img src="tumblr icon roblox.png" alt="Guestbook" width="100">   <a href="https://atabook.org">   
+  <img src="tumblr icon pink roblox.png" alt="Guestbook" width="100">    <a href="https://atabook.org">
+  <img src="દ_૩-removebg-preview.png" alt="Guestbook" width="100">
 </a>
 </a>
 
