@@ -26,7 +26,7 @@
 </p>
 "Bumzo says never get too attached."
 ---
-
+New to Github.
 <!-- 2. THE CUSTOM BOXED GRID -->
 <table align="center" width="100%">
   <tr>
