@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider tumblr white and brown.png" width="800" alt="Gothic Potrait"/>
+  <img src="divider tumblr white and brown.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 
