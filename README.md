@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="tumblr stars.webp" width="700" alt="Gothic Potrait"/>
+  <img src="tumblr stars.webp" width="900" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="tumblr pink.webp" width="600" alt="Gothic Potrait"/>
+  <img src="tumblr pink.webp" width="800" alt="Gothic Potrait"/>
 </p>
 
  
