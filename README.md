@@ -138,7 +138,9 @@ sniffs
 <p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."}$
 </p>
 
-
+<p align="center">
+  <img src="music 2.png" width="900" alt="Gothic Potrait"/>
+</p>
 
 I constantly change my READ.ME due to boredom
 
