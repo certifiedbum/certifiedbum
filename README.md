@@ -105,7 +105,7 @@ sniffs
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>F4F</b><br>
-      $\color{blue}Follow4Follow {back}$
+      $\color{blue}Follow4Follow {back} if i see it $
     </td>
   </tr>
 </table>
