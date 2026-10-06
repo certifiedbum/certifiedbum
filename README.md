@@ -11,9 +11,11 @@
 </p>
 
  <a href="https://guns.lol/f4ngni0r">
-  <img src="tumblr icon roblox.png" alt="Guestbook" width="60">   <a href="https://lovelydeath.straw.page/">   
-  <img src="tumblr icon pink roblox.png" alt="Guestbook" width="60">    <a href="https://lovesh0tz.carrd.co/">
-  <img src="pawz-removebg-preview.png" alt="Guestbook" width="60">
+  <img src="tumblr icon roblox.png" alt="Guns.lol" width="90">   <a href="https://lovelydeath.straw.page/">   
+  <img src="tumblr icon pink roblox.png" alt="Strawpage" width="90">    <a href="https://lovesh0tz.carrd.co/"> 
+  <img src="pawz-removebg-preview.png" alt="Carrd" width="90">  td align="center" width="50%">
+      <b> Carrd </b><br>
+      $\color{pink}  Carr = {d }$
 </a>
 </a>
 
