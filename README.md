@@ -10,10 +10,10 @@
   <img src="tumblr pink.webp" width="700" alt="Gothic Potrait"/>
 </p>
 
- <a href="https://atabook.org">
-  <img src="tumblr icon roblox.png" alt="Guestbook" width="100">   <a href="https://atabook.org">   
-  <img src="tumblr icon pink roblox.png" alt="Guestbook" width="100">    <a href="https://atabook.org">
-  <img src="દ_૩-removebg-preview.png" alt="Guestbook" width="100">
+ <a href="https://guns.lol/f4ngni0r">
+  <img src="tumblr icon roblox.png" alt="Guestbook" width="100">   <a href="https://lovelydeath.straw.page/">   
+  <img src="tumblr icon pink roblox.png" alt="Guestbook" width="100">    <a href="https://lovesh0tz.carrd.co/">
+  <img src="pawz-removebg-preview.png" alt="Guestbook" width="100">
 </a>
 </a>
 
