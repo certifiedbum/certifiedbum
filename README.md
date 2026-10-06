@@ -114,8 +114,8 @@ sniffs
   <tr>
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
-      <b>F4F</b><br>
-      $\color{pink} OML GITHUB BE SO DIFFICULT  {HOLY $
+      <b>CURRENTLY TWEAKING OUTT </b><br>
+      $\color{pink} OML GITHUB BE SO DIFFICULT  {HOLY} $
     </td>
   </tr>
 </table>
