@@ -97,7 +97,7 @@ sniffs
     <!-- Bottom Right Stats Box -->
     <td align="center" width="60%">
       <b>F4F</b><br>
-      $\color{pink} I follow cs im {bored} $
+      $\color{pink} I follow cs im {bored but F4F also} $
     </td>
   </tr>
 </table>
