@@ -13,7 +13,7 @@ Social Links .
  <a href="https://guns.lol/f4ngni0r">
   <img src="tumblr icon roblox.png" alt="Guns.lol" width="90">   <a href="https://lovelydeath.straw.page/">   
   <img src="tumblr icon pink roblox.png" alt="Strawpage" width="90">    <a href="https://lovesh0tz.carrd.co/"> 
-  <img src="pawz-removebg-preview.png" alt="Carrd" width="90">  
+  <img src="heartzy.png" alt="Carrd" width="90">  
 </a>
 </a>
 
