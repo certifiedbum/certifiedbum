@@ -7,7 +7,9 @@
   <img src="tumblr pink.webp" width="800" alt="Gothic Potrait"/>
 </p>
 
- 
+ <a href="https://atabook.org">
+  <img src="https://catbox.moe" alt="Guestbook" width="200">
+</a>
 
 
 
