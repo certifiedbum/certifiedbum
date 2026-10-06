@@ -17,7 +17,9 @@
 </a>
 
 
-
+<p align="center">
+  <img src="tumblr stars.webp" width="900" alt="Gothic Potrait"/>
+</p>
 
 </p><!-- 1. HEADER SECTION -->
 
