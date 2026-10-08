@@ -36,7 +36,7 @@ Social Links .
 
 <!-- 3. FOOTER QUOTE SECTION -->
 <p align="center">
-  <i>"I am under your bed right now."</i>
+  <i>"BUMZY."</i>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ Social Links .
 </p>
 
 <p align="center">
-  $\small\color{pink}\text{ "Cause I'd rot in hell with you, if you'd just ask me to.".}$
+  $\small\color{pink}\text{ "C+H HERE ! .".}$
 </p>
 
 
