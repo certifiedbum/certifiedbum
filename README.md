@@ -42,7 +42,7 @@ Social Links .
      
     <The unpopular bum . >
 </p>
-"Bumzo says never get too attached."
+
 ---
 New to Github.
 <!-- 2. THE CUSTOM BOXED GRID -->
