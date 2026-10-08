@@ -30,48 +30,7 @@ Social Links .
   <img src="tumblr stars.webp" width="900" alt="Gothic Potrait"/>
 </p>
 
-</p><!-- 1. HEADER SECTION -->
 
-
-
-
-
- <!-- Left Column Box tired . --> 
- <table align="center" width="100%"> 
-  
-     
-    <The unpopular bum . >
-</p>
-
----
-New to Github.
-<!-- 2. THE CUSTOM BOXED GRID -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Left Column Box -->
-    <td align="center" width="50%">
-      <b>MIDNIGHTSLEEPER</b><br>
-  I like to sleep 
-    </td>
-    <!-- Right Column Box -->
-    <td align="center" width="50%">
-      <b>idkidkidk</b><br>
-      $\color{pink}i eat ur hair{ for dinner }$
-    </td>
-  </tr>
-  <tr>
-    <!-- Bottom Left Box -->
-    <td align="center" width="50%">
-      <b>BUMZ0.</b><br>
-      $\color{pink}burning eyes.{lolol}$
-    </td>
-    <!-- Bottom Right Box -->
-    <td align="center" width="50%">
-      <b> W2I </b><br>
-      $\color{pink}  Mostly W2i = {on youtube }$
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -89,42 +48,10 @@ I'm not gonna be looking at my github for awhile
 ⠀⠀
 
 
-<!-- NATIVE CRIMSON ALERT CALLOUT BOX -->
-sniffs
-
-
----
-
-<!-- ASYMMETRIC DESIGN GRID -->
-<table align="center" width="100%">
-  <tr>
-    <!-- Tall Profile Intro Box -->
-    <td align="left" width="40%" rowspan="2" valign="top">
-      <h4>📍 INFO </h4>
-      $\small\color{pink}\text{I like doing art, spending time with friends, ext.}$<br>
-      $\small\color{pink}\text{Focus: making ponies }$<br>
-      $\small\color{pink}\text{Status: currently tweaking out }$
-    </td>
-    <!-- Top Right Stats Box -->
-    <td align="center" width="60%">
-      <b>CURRENT PROJECTS</b><br>
-      $\color{pink}dih{dih}$
-    </td>
-  </tr>
-  <tr>
-    <!-- Bottom Right Stats Box -->
-    <td align="center" width="60%">
-      <b>CURRENTLY TWEAKING OUTT </b><br>
-      $\color{pink} OML GITHUB BE SO DIFFICULT  {HOLY} $
-    </td>
-  </tr>
-</table>
-
----
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"Wondering if there's anything new in life that would come up."</i>
+  <i>"I shade ponies idk."</i>
 </p>
 
 <p align="center">
@@ -143,5 +70,5 @@ Main oc okok
   <img src="music 2.png" width="900" alt="Gothic Potrait"/>
 </p>
 
-I constantly change my READ.ME due to boredom
+
 
