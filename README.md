@@ -55,7 +55,7 @@ Social Links .
 </p>
 
 <p align="center">
-  $\small\color{pink}\text{ "C+H HERE ! .".}$
+  $\small\color{pink}\text{ "C+H HERE (Unless I'm with friends or something)! .".}$
 </p>
 
 
@@ -63,7 +63,7 @@ Social Links .
   <img src="my pony.png" width="300" alt="Gothic Potrait"/>
 
 Main oc okok
-<p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here."}$
+<p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here if comfortable."}$
 </p>
 
 <p align="center">
