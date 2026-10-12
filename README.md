@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  $\small\color{pink}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song" - FNAF .}$
+  $\small\color{grey}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song" - FNAF .}$
 </p>
 
 
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  $\small\color{pink}\text{ "C+H HERE (Unless I'm with friends or something)! .".}$
+  $\small\color{grey}\text{ "C+H HERE (Unless I'm with friends or something)! .".}$
 </p>
 
 
