@@ -27,7 +27,7 @@
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"I shade ponies idk."</i>
+  <i>"M/w Vin ! ."</i>
 </p>
 
 <p align="center">
