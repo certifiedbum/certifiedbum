@@ -39,9 +39,5 @@ Random oc I made okok
 <p align="center">$\small\color{blue}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here if comfortable."}$
 </p>
 
-<p align="center">
-  <img src="music 2.png" width="900" alt="Gothic Potrait"/>
-</p>
-
 
 
