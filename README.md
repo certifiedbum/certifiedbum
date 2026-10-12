@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  $\small\color{grey}\text{ "C+H HERE (Unless I'm with friends or something)! .".}$
+  $\small\color{grey}\text{ "C+H. (Unless I'm with friends or something)! .".}$
 </p>
 
 
