@@ -35,7 +35,7 @@
 </p>
 
 
-<p align="center">$\small\color{grey}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here if comfortable."}$
+<p align="center">$\small\color{grey}\text{"Currently Online. "}$
 </p>
 
 
