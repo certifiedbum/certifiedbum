@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔__𝑭𝒂𝒏𝒅𝒐𝒎______sunday____hsr____honkaistarrail______сандей____хср____хонкайстаррейл_____author_in_tg___nanachiks_-removebg-preview.png" width="900" alt="Gothic Potrait"/>
+  <img src="𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔__𝑭𝒂𝒏𝒅𝒐𝒎______sunday____hsr____honkaistarrail______сандей____хср____хонкайстаррейл_____author_in_tg___nanachiks_-removebg-preview.png" width="5000" alt="Gothic Potrait"/>
 </p>
 
 
