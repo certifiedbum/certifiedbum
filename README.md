@@ -10,6 +10,9 @@
   <img src="stars..webp" width="900" alt="Gothic Potrait"/>
 </p>
 
+<p align="center">
+  <img src="sword..png" width="900" alt="Gothic Potrait"/>
+</p>
 
 
 <p align="center">
