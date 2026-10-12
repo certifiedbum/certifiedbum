@@ -35,10 +35,6 @@
 </p>
 
 
-<p align="center">
-  <img src="my pony.png" width="300" alt="Gothic Potrait"/>
-
-Random oc I made okok
 <p align="center">$\small\color{grey}\text{"If you spot me lurking in-game, feel free to sit down and cuddle, or leave a follow right here if comfortable."}$
 </p>
 
