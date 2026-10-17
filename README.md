@@ -25,7 +25,7 @@
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"M/w Vin  ."</i>
+  <i>"I may not be in some places I'm usually in because I'm in a different server ."</i>
 </p>
 
 <p align="center">
