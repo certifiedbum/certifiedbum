@@ -15,9 +15,7 @@
 </p>
 
 
-<p align="center">
-  $\small\color{grey}\text{"Tonight we roam, and if they listen really close, they can hear us sing our song" - FNAF .}$
-</p>
+
 
 
 
@@ -27,7 +25,7 @@
 
 <!-- CENTERED QUOTE -->
 <p align="center">
-  <i>"M/w Vin ! ."</i>
+  <i>"M/w Vin  ."</i>
 </p>
 
 <p align="center">
