@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="stars..webp" width="700" alt="Gothic Potrait"/>
+  <img src="stars..webp" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
